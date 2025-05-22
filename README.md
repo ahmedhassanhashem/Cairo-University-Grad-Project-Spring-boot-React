@@ -1,1 +1,3 @@
-# Cairo-University-Grad-Project-Spring-boot-React
+# Interna (job seeking platform)
+
+Cairo-University-Grad-Project-Spring-boot-React
